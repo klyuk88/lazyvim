@@ -90,6 +90,16 @@ return {
     },
   },
   -- {
+  --   "akinsho/toggleterm.nvim",
+  --   opts = {
+  --     size = 20,
+  --     open_mapping = [[<leader>t]],
+  --     direction = "float",
+  --   },
+  --   version = "*",
+  -- },
+
+  -- {
   --   "nvimtools/none-ls.nvim",
   --   optional = true,
   --   opts = function(_, opts)
